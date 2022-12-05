@@ -1,2 +1,2 @@
 #!/bin/bash
-head 10 -n 4-lastlines
+head -n  10 4-lastlines
