@@ -4,5 +4,3 @@
 for val in *; do
     echo "$( cut -d '-' -f 2- <<< "$val" )"
 done
-Footer
-© 2023 GitHub, Inc.
